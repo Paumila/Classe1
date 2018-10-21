@@ -1,4 +1,4 @@
-# Moving between Git
+## Moving between Git
 # Creem un perfil en el Github i ens creem un repositori
 
 # Entrar en el directori on volem crear la carpeta repositori en el PC
