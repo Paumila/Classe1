@@ -6,9 +6,9 @@ Entrar en el directori on volem crear la carpeta repositori en el PC
 Terminal:
 
 pau@pau-LIFEBOOK-T904:~ cd Escritorio/
-pau@pau-LIFEBOOK-T904:~/Escritorio cd Master\ en\ Robotica/
-pau@pau-LIFEBOOK-T904:~/Escritorio/Master en Robotica cd Robotics\ Integration/
-pau@pau-LIFEBOOK-T904:~/Escritorio/Master en Robotica/Robotics Integration
+pau@pau-LIFEBOOK-T904:~ Escritorio cd Master\ en\ Robotica/
+pau@pau-LIFEBOOK-T904:~ Escritorio/Master en Robotica cd Robotics\ Integration/
+pau@pau-LIFEBOOK-T904:~ Escritorio/Master en Robotica/Robotics Integration
 
 #En aquest cas ja hem arribat a la carpeta on volem crear el repositori
 
